@@ -1,0 +1,2 @@
+rootProject.name='countryapi'
+include ':app'
